@@ -1,5 +1,4 @@
 # **TikTok Project**
-**Course 4 - The Power of Statistics**
 
 You are a data professional at TikTok. The current project is reaching its midpoint; a project proposal, Python coding work, and exploratory data analysis have all been completed.
 
